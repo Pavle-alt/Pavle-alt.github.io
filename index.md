@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# naslov 1
+# mango
 
-Ovo je normalni tekst. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Mango (Mangifera indica) je drvo i plod iz porodice Anacardiaceae iz roda roda Mangifera (Magovaca). Mango se uzgaja u brojnim tropskim i suptropskim krajevima. L. Domovina manga je Indijski podkontinent, zapravo Assam i Burma.
 
 ## Header 2
 
