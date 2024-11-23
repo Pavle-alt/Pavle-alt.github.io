@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-Biografija
-pavle paunovic ucenik 8.razreda osnovne skole Sveti djakum Avakum
 
 # mango
 
